@@ -1,0 +1,19 @@
+.peach {
+    background-color: #ffb4f1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.peach.cooler {
+    font-size: 24px;
+}
+
+#blue {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#green {
+    background-color: hsl(120, 100%, 50%);
+    font-size: 24px;
+    font-weight: bold;
+}
