@@ -27,15 +27,17 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border: solid;
 }
 
 .bottom{
-padding: 0 3.6rem;
+padding-left: 3.3rem;
+}
+
+.text {
+margin-bottom: 1rem;
 }
 
 .header-container{
-  border: solid;
   text-align: left;
   flex: auto;
   padding: 0.75rem;
